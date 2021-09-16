@@ -1,0 +1,36 @@
+.posts{
+    background-color: white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius: 20px;
+}
+.posts-head{
+    display: flex;
+  margin-bottom: 10px;
+}
+.posts-infomation{
+   margin-left: 10px;
+}
+.posts-infomation>p{
+    font-size: 17px;
+    color: darkolivegreen;
+
+}
+.posts-infomation>h1{
+    font-size: 30px;
+     
+}
+.posts-body{
+    overflow-wrap:anywhere;
+    font-weight: 400;
+}
+ 
+.posts-like:hover{
+}
+.posts-like{
+    display: flex;
+    align-items: center;
+    padding:10px;
+    margin-top:10px;
+    justify-content: space-evenly;
+}

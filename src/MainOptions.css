@@ -1,0 +1,17 @@
+.mainoption-top{
+    display: flex;
+    align-items: center;
+    margin-top:10px;
+    color:rgb(29, 18, 13);
+    padding:10px;
+    cursor:pointer;
+}
+.mainoption-top:hover{
+    background-color: coral;
+    border-radius: 20px;;
+
+}
+.mainoption-top>h3{
+    margin-left: 10px;
+    
+}

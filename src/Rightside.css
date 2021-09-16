@@ -1,0 +1,20 @@
+ .rightside-top{
+     background-color: white;
+     padding:20px;
+     margin-top:10px;
+     border-radius: 10px;
+     flex:0.2;
+ }
+ .rightside-header{
+     display: flex;
+
+ }
+.rightside-news>p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.rightside-news{
+ 
+    margin-top: 10px;
+    flex-direction: row;
+}

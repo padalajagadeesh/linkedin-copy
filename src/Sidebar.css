@@ -1,0 +1,111 @@
+.sidebar{
+    position:sticky;
+    top:100px;
+    flex:0.1;
+    border-radius: 12px;
+    text-align: center;
+    height:fit-content;
+     
+}
+.sidebar-avatar{
+    margin-bottom: 1px;
+}
+.sidebar-top > h4 {
+    color:rgb(107, 74, 53);
+    font-style: 12px;
+}
+.sidebar-top > h1 {
+    
+     font-size: 30px;
+   
+}
+.sidebar-status{
+    padding:9px;
+     margin-bottom: 10px;
+     border: 1px solid rgb(229, 225, 233);
+     border-bottom:  0px;
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+     background-color: white;
+     display: flex;
+    margin-top: 0px;
+   justify-content: space-between;
+     
+}
+.sidebar-top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgb(229, 225, 233);
+    border-bottom:  0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: white;
+    padding-bottom: 15px;
+     
+     
+}
+.sidebar-top > img {
+    width:100%;
+  
+    
+     margin-bottom: -30px;;
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+   object-fit: cover;
+}
+ 
+ .sidebar-startname >p {
+     color:rgb(10, 8, 8);
+     font-size: 18px;
+     font-weight: bold;
+ }
+ .sidebar-startno{
+     color:red;
+ }
+ .sidebar-last {
+     text-align: left;
+     padding:10px;
+     padding-left: 30px;
+     background-color:rgb(251, 247, 255); 
+      
+     border-radius: 10px;
+     margin-top: 10px;
+     font-size: 20px;
+ }
+ .sidebar-bottom >p{
+    
+    
+ }
+ .sidebar-bottom{
+    text-align: left;
+    padding:10px;
+    padding-left: 30px;
+    background-color:rgb(251, 247, 255); 
+    margin-top: 20px;
+    border-radius: 10px;
+   margin-bottom: 30px;
+   padding-bottom: 20px;
+    font-size: 15px;
+    font-size: 20px;
+    color:slateblue;
+    
+    border-bottom: 1px solid rgb(196, 187, 187);
+ }
+  .sidebar-bottom > p >span{
+      color:black;
+      padding-left: 130px;
+     
+  }
+   .sidebar-cover  {
+        
+    text-align: left;
+    padding:10px;
+    padding-left: 30px;
+    background-color:rgb(251, 247, 255); 
+     
+    border-radius: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+   }
+   
